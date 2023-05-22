@@ -7,4 +7,4 @@ I **declare** my **readiness** to **participate** in any open source project. Yo
 # Projects
 - [x] [__phonenumberinfo__](https://github.com/deonvz/phonenumberinfo)
 - [x] [__webkiller__](https://github.com/ultrasecurity/webkiller)
-- [ ] [__secure-message-lib__](https://github.com/claudiopatricio/secure-message-lib)
+- [x] [__Havoc-Ransomware__](https://github.com/ramirak/Havoc-Ransomware)
